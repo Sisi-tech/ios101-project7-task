@@ -28,8 +28,9 @@
 </div>
 
 ## GIF
+
 ![Task](https://github.com/Sisi-tech/ios101-project7-task/assets/110059102/a583eb3b-2230-4c44-864c-c1daf6876170)
-![Kapture 2024-04-08 at 22 45 36](https://github.com/Sisi-tech/ios101-project7-task/assets/110059102/60a44c87-5c9f-40d7-b92f-b4e0f27ba5d7)
+
 
 
 
