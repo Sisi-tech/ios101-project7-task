@@ -28,6 +28,7 @@
 </div>
 
 ## GIF
+![Task](https://github.com/Sisi-tech/ios101-project7-task/assets/110059102/a583eb3b-2230-4c44-864c-c1daf6876170)
 
 
 ## License
