@@ -21,6 +21,11 @@
 </ul>
 
 ## Video Walkthrough
+<div>
+    <a href="https://www.loom.com/share/6a665dd2580c46ebbf4ca95f24c7fbb2">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6a665dd2580c46ebbf4ca95f24c7fbb2-with-play.gif">
+    </a>
+</div>
 
 ## GIF
 
